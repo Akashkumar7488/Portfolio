@@ -44,28 +44,28 @@ const Education = () => {
                
 
                <Details
-               type='Currently Completed MAster of Computer Application' 
+               type='MAster of Computer Application' 
                time='2022-2024'
                place='Patna' 
                info='Amity Patna'
                 />
 
                 <Details
-               type='Done Graduation from Oriental College Patna' 
+               type='Graduation ' 
                time='2019-2022'
                place='Patna' 
-               info='Affiliated with Patliputra University, Stream-Mathematics'
+               info='Patliputra University,Maths Oriental College Patna'
                 />
 
               <Details
-               type='Done Inter at Oriental College Patna' 
+               type='Inter ' 
                time='2017-2019'
                place='Patna' 
-               info='Affiliated with Patliputra University, Stream-Science, Maths'
+               info='Patliputra University,Science Oriental College Patna'
                 />
 
               <Details
-               type='Done Schooling at Gyanasthali High School' 
+               type='Xth Gyanasthali High School' 
                time='2016-2017'
                place='Patna' 
                info='Affiliated to CBSE Board, near Alamganj Chowki'
