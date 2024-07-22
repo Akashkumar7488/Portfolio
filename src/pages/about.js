@@ -49,7 +49,7 @@ const about = () => {
             <div className='col-span-3 flex flex-col items-start justify-start xl:col-span-4'>
                 <h2 className='mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75'>Biography</h2>
                 <p className='font-medium'>
-                 Hi, I'm Akash Kumar, a web developer and UI/UX designer with a passion for creating beautiful, functional, 
+                 Hi, I &apos;m Akash Kumar, a web developer and UI/UX designer with a passion for creating beautiful, functional, 
                  and user-centered digital experiences. With handson  experience in the field. I am always looking for 
                  new and innovative ways to bring my clients' visions to life.
                  </p>
@@ -58,7 +58,7 @@ const about = () => {
                  creating intuitive, enjoyable experiences for users. 
                  </p>
                 <p className='font-medium'>
-                  Whether I'm working on a website, mobile app, or 
+                  Whether Iam working on a website, mobile app, or 
                  other digital product, I bring my commitment to design excellence and user-centered thinking to 
                  every project I work on. I look forward to the opportunity to bring my skills and passion to your next project.
                 </p>
@@ -66,7 +66,7 @@ const about = () => {
         
         <div className='col-span-3 relative  rounded-2xl border-2 border-solid border-dark bg-light p-8 dark:bg-dark dark:border-light ' style={{height:'400px'}}>
           <div className='absolute top-0 -right-3 -z-10 w-[102%] h-[103%] rounded-[2rem] bg-dark dark:bg-light'/>
-          <Image src={passportprofile1} className='w-full  rounded-2xl sm:w-full ' style={{height:'364px'}}
+          <Image src={passportprofile1} alt='Profile picture of Akash Kumar' className='w-full  rounded-2xl sm:w-full ' style={{height:'364px'}}
            priority
            sizes='(max-width:768px) 100vw,
            (max-width:1200px) 50vw,
