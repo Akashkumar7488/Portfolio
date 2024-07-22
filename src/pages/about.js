@@ -49,7 +49,7 @@ const about = () => {
             <div className='col-span-3 flex flex-col items-start justify-start xl:col-span-4'>
                 <h2 className='mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75'>Biography</h2>
                 <p className='font-medium'>
-                 Hi, I &apos;m Akash Kumar, a web developer and UI/UX designer with a passion for creating beautiful, functional, 
+                 Hi, I am Akash Kumar, a web developer and UI/UX designer with a passion for creating beautiful, functional, 
                  and user-centered digital experiences. With handson  experience in the field. I am always looking for 
                  new and innovative ways to bring my clients' visions to life.
                  </p>
